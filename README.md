@@ -82,8 +82,8 @@ A suspenseful 3D maze escape game created in Unity, where you must find your way
 
 ## 👥 Developers
 
-- **Filipe Lutz Mariano** — 25956  
-- **Vinicius Miranda** — 70973
+- **Filipe Lutz** - 25956  
+- **Vinicius Miranda** - 70973
 
 ---
 
@@ -93,4 +93,4 @@ We declare that the work presented in this project titled “Shadow Maze: Ghost 
 
 Any external resources, tutorials, or assets used during the development process have been appropriately cited and credited in the report and project documentation. We confirm that this project adheres to the academic integrity policies of the institution and does not contain any material plagiarized from other students or uncredited sources.
 
-**Filipe Lutz & Vinicius Miranda**
+***Filipe Lutz & Vinicius Miranda***
